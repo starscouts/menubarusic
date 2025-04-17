@@ -1,0 +1,10 @@
+{
+  "name": "Menubarusic",
+  "version": "1.0.1",
+  "dependencies": {
+    "@xhayper/discord-rpc": "^1.0.21",
+    "electron": "^25.3.0",
+    "electron-packager": "^17.1.1"
+  },
+  "main": "main.js"
+}
